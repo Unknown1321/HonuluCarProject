@@ -1,0 +1,10 @@
+Luxury{id=1, brand='Mercedes', model='S-Class', fuelType='Benzin', registrationNumber='hy56757', registrationYearMonth=2015, kmDriven=5000, threeThousandCCM='3000', automaticGear='Yes', airCondition='Yes', cruiseControl='Yes', leatherSeats='Yes'}
+***********************************************************************************************************************************
+Sport{id=2, brand='Porsche', model='Cayenne', fuelType='Benzin', registrationNumber='br43575', registrationYearMonth=2012, kmDriven=17800, manualGear='No', overTwoHundredHp='Yes'}
+***********************************************************************************************************************************
+Family{id=3, brand='Volkswagen', model='Passat', fuelType='Diesel', registrationNumber='re34876', registrationYearMonth=2010, kmDriven=33600, manualGear='Yes', airCondition='Yes', someWithCruiseControl='No', sevenSeatsOrMore='Yes'}
+***********************************************************************************************************************************
+Luxury{id=4, brand='BMW', model='M3', fuelType='Benzin', registrationNumber='kb24008', registrationYearMonth=2014, kmDriven=2000, threeThousandCCM='4000', automaticGear='Yes', airCondition='Yes', cruiseControl='Yes', leatherSeats='Yes'}
+***********************************************************************************************************************************
+Luxury{id=1234, brand='sdfg', model='sdfgh', fuelType='dfgh', registrationNumber='1erg', registrationYearMonth=1234, kmDriven=2345, threeThousandCCM='', automaticGear='ja', airCondition='ja', cruiseControl='ja', leatherSeats='ja'}
+***********************************************************************************************************************************

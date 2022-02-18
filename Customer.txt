@@ -1,0 +1,10 @@
+Private_Customer{nameOfDriver='Youssef', address='Ruten', postNumber=2700, city='København', mobilePhone=34657809, phone=39673125, email='vikan@gmail.com', driverLicenseNumber='43223', driverSinceDate='199504'}
+***********************************************************************************************************************************
+Companies{companyName='TDC', companyAddress='Molen 2', companyPhoneNumber=39676625, crn=345123, nameOfDriver='Mardin', address='Tingjbjerg', postNumber=2700, city='København', mobilePhone=76450912, phone=23658976, email='jatak@hotmail.com'}
+***********************************************************************************************************************************
+Companies{companyName='Yousee', companyAddress='Svinget 3', companyPhoneNumber=64789320, crn=453594, nameOfDriver='Mo', address='Nørrebro', postNumber=2200, city='København', mobilePhone=67547823, phone=35658912, email='stacks@outlook.dk'}
+***********************************************************************************************************************************
+Private_Customer{nameOfDriver='Anas', address='Amager', postNumber=2400, city='København', mobilePhone=28625902, phone=45875603, email='anas@msn.dk', driverLicenseNumber='hf53025', driverSinceDate='198503'}
+***********************************************************************************************************************************
+Private_Customer{nameOfDriver='', address='dfgh', postNumber=1234, city='', mobilePhone=1234, phone=12345, email='', driverLicenseNumber='½1234', driverSinceDate='1234'}
+***********************************************************************************************************************************

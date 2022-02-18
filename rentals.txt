@@ -1,0 +1,8 @@
+rentalContract{rentersOrCompanyId=23, rentalStart='12/10/2021', rentalSlut='21/10/2021', maxKm=2000, kmStart=23000, registrationPlate='hg54987'}
+***********************************************************************************************************************************
+rentalContract{rentersOrCompanyId=8, rentalStart='21/10/2021', rentalSlut='28/10/2021', maxKm=2500, kmStart=25000, registrationPlate='tf34567'}
+***********************************************************************************************************************************
+rentalContract{rentersOrCompanyId=24, rentalStart='28/10/2021', rentalSlut='05/11/2021', maxKm=2200, kmStart=27000, registrationPlate='ng98435'}
+***********************************************************************************************************************************
+rentalContract{rentersOrCompanyId=3, rentalStart='05/11/2021', rentalSlut='12/11/2021', maxKm=2400, kmStart=29000, registrationPlate='lj23006'}
+***********************************************************************************************************************************
